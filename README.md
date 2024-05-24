@@ -1,3 +1,18 @@
+# 登录相关
+
+https://yyweb.zfsycf.com.cn:1443/device/list
+
+账号:`19850229270`
+
+密码:`12345678`
+
+http://124.248.65.72:70/deviceMaintenance/management
+
+账号:`15888888888`
+
+密码:`admin123`
+
+
 # 设备详情
 
 
@@ -55,7 +70,7 @@
 ![image](https://github.com/zhenyitech/shenying/assets/6236022/ea9ade47-0825-468a-9e6d-e5c7eb5af22a)
 
 
-###【设备保养】检查项管理
+### 【设备保养】检查项管理
 
 ![image](https://github.com/zhenyitech/shenying/assets/6236022/8dbba403-39b6-4aff-bbab-4b00d0287fb4)
 
